@@ -8,3 +8,18 @@ Objective:The main goal of this project is to classify food items by uploading t
 - https://www.kaggle.com/datasets/harishkumardatalab/food-image-classification-dataset
 
 ![FCD_TASK1_IMAGE](https://github.com/user-attachments/assets/ceae8a62-3069-46b2-a6a7-6d935ca3849a)
+# 2.DATA BALANCING
+- To improve model performance and ensure fair representation, data balancing techniques are applied, making the dataset evenly distributed across all 34 food categories.
+- We use Python scripts to balance the dataset, ensuring each class contains exactly 200 images.
+- The dataset is then split into three subsets:
+    - Training Set: 150 images per class
+    - Validation Set: 30 images per class
+    - Testing Set: 20 images per class
+- Finally, the balanced dataset is uploaded to Google Drive for easy access and further processing.
+# 3.Development Environment & Library Imports:
+- We use Google Colaboratory for this project due to its free access to GPU, which significantly enhances deep learning model training compared to a CPU.
+- After uploading the dataset to Google Drive, a new Colab notebook is created to begin coding.
+- The first step is to mount Google Drive to access the dataset.
+- Next, we import the necessary libraries, each serving a specific purpose:
+  
+Importing Required Libraries:
