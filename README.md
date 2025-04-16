@@ -5,7 +5,7 @@ Objective:The main goal of this project is to classify food items by uploading t
 - It includes a diverse range of food items to improve model accuracy and generalization.
 
 - You can download the dataset from the following link:
-- https://www.kaggle.com/datasets/harishkumardatalab/food-image-classification-dataset
+- [Food_Classification](https://www.kaggle.com/datasets/harishkumardatalab/food-image-classification-dataset)
 
 ![FCD_TASK1_IMAGE](https://github.com/user-attachments/assets/ceae8a62-3069-46b2-a6a7-6d935ca3849a)
 # 2.DATA BALANCING
